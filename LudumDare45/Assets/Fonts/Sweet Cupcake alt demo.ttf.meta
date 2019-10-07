@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 72e4c008d5f3d1a429396f13458eafbd
+timeCreated: 1570237381
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sweet Cupcake alt demo
+  fontNames:
+  - Sweet Cupcake alt demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
